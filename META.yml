@@ -1,6 +1,6 @@
 ---
 name: Sub-Starter
-version: v1.0.3
+version: v1.0.4
 author:
   - 'Shawn H Corey <SHCOREY@cpan.org>'
 abstract: Creates a skeletal framework for Perl sub's.
@@ -12,7 +12,7 @@ build_requires:
 provides:
   Sub::Starter:
     file: lib/Sub/Starter.pm
-    version: v1.0.3
+    version: v1.0.4
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
