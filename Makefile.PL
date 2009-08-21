@@ -8,7 +8,9 @@ WriteMakefile
                            'Test::More' => '0'
                          },
           'INSTALLDIRS' => 'site',
-          'EXE_FILES' => [],
+          'EXE_FILES' => [
+                           'script/substarter'
+                         ],
           'PL_FILES' => {}
         )
 ;
